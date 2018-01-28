@@ -1,0 +1,23 @@
+name: proj
+channels:
+  - conda-forge
+  - colomoto
+  - defaults
+dependencies:
+  - jupyter
+  - keras<2
+  - librosa
+  - matplotlib
+  - mutagen
+  - numpy
+  - pandas
+  - pydot
+  - python=3
+  - python-dotenv
+  - requests
+  - seaborn
+  - scikit-learn
+  - scipy
+  - sympy
+  - tensorflow
+  - tqdm
